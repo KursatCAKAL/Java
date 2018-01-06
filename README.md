@@ -1,5 +1,5 @@
 # Java
-Paging Algorithms(FIFO,LRU,OPTIMAL)
+Paging Algorithms(FIFO,LRU,OPTIMAL)<br>
 Source codes will published on 11.01.2018 at this post.
 
 <img src="https://raw.githubusercontent.com/KursatCAKAL/Java/master/Java_Paging%20Algorithms/FIFO-3.png">
