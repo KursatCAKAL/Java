@@ -1,4 +1,5 @@
 # Java
+Paging Algorithms(FIFO,LRU,OPTIMAL)
 
 
 <img src="https://raw.githubusercontent.com/KursatCAKAL/Java/master/Java_Paging%20Algorithms/FIFO-3.png">
