@@ -1,5 +1,5 @@
 # Java
-1-) Paging Algorithms-FIFO(First-in First-out)/LRU(Least Recently Used)/OPTIMAL (11.01.2018)
+1-) Paging Algorithms-FIFO(First-in First-out)/LRU(Least Recently Used)/OPTIMAL (11.01.2018)<br>
 2-) TCP Multi-Chat Socket Application (04.05.2019)
 
 
