@@ -1,6 +1,8 @@
 # Java
-Paging Algorithms(FIFO,LRU,OPTIMAL)<br>
-Source codes will published on 11.01.2018 at this post.
+1-) Paging Algorithms-FIFO(First-in First-out)/LRU(Least Recently Used)/OPTIMAL (11.01.2018)
+2-) TCP Multi-Chat Socket Application (04.05.2019)
+
+
 
 
 <img src="https://raw.githubusercontent.com/KursatCAKAL/Java/master/TCP%20Protocol%20-%20Multi%20Chat%20Application/Screenshots/hw6-5.png">
